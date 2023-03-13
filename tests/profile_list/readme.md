@@ -1,0 +1,24 @@
+- Page Header
+- Title: “Cyber Threat Profiles”
+    - Description: “We use automated discovery and continuous scanning across worldwide infrastructure to map and monitor threats and threat actors. Rapidly identify adversary-threat infrastructure for actionable indicators and TTPs drawn directly from threat infrastructure, including history, distribution, trends, and guided insights from our threat researchers. Identify adversary-threat infrastructure—from a single threat actor to thousands.”
+- Three Tabs with numbers next to the name indicating how many items are in the tables that those tabs will display
+     - “Threat Actors”
+        - Five Columns, each of which are sortable
+            - “Profile”
+                - Contains Threat Actor’s name, aliases, image, and description of the Actor
+                - Clicking the profile takes you to the full article
+            - “Targets”
+                - Displays zero to five targets with icons.
+                - If there are more than five icons, there is a “more” button that expands to show all of the targets with icons.
+            - “State Sponsored”
+                - Displays zero to five state names with icons.
+                - If there are more than five icons, there is a “more” button that expands to show all of the state names with icons.
+            - “Public Indicators”
+                - Display total number of public indicators
+            - “Defender TI Indicators”
+                - Display total number of Defender TI Indicators
+            - “Tool”
+                - Follows the same format and criteria as the “Threat Actors” tab
+            - “Backdoors”
+                - Follows the same format and criteria as the “Threat Actors” tab
+

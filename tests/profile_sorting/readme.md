@@ -1,0 +1,3 @@
+Each column ("Profile", "Targets", "State Sponsored", "Public Indicators", and "Defender TI Indicators") initially has double arrows next to the column name. If clicked, the double arrows turn into a single down arrow and the table will now be sorted according to descending values in that column. If the same column is clicked again, it will toggle to be ascending with an up arrow icon. The column will now toggle between ascending and descending each time the column is pressed. If a different column is pressed, the state will be reset to the double arrow state.
+
+This column functionality is the same for all the columns in all three of the tabs ("Threat actors", "Tool", "Backdoor")
